@@ -17,6 +17,7 @@ if (isset($_SESSION['signinAdmin'])) {
     <style>
         body{
             background-image: url('../assets/img/background_body_2.jpeg');
+            
         }
     </style>
     <title>Đăng nhập</title>
